@@ -4,4 +4,4 @@ HTML and CSS based Horiseon website with improved accessibility as well as neces
 
 https://hoolseanalan.github.io/Horiseon/
 
-![Horiseon Website Screenshot](/screenshot.png)
+![Horiseon Website Screenshot](/screenshot.PNG)
